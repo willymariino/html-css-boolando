@@ -21,6 +21,7 @@ header {
 }
 
 .images {
+    position: relative;
     padding-top: 30px;
 
 

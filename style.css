@@ -1,0 +1,13 @@
+header {
+    background-color: #ff6900;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+}
+
+.boolean-logo {
+    max-height: 50px;
+    padding: 20px;
+}

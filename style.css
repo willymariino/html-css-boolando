@@ -29,6 +29,30 @@ header {
 
 }
 
+.image-1 {
+    position: relative;
+}
+
+
+.discount {
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 10px;
+    right: 60px;
+}
+
+.sostenibilià {
+    font-size: 40px;
+    color: white;
+    background-color: green;
+    text-transform: uppercase;
+}
+
+
+
 /* .image-1 {
     position: relative;
     left: 174px;
@@ -40,7 +64,11 @@ header {
     left: 900px;
 }
 
-.image-3 {
-    position: relative;
-    left: 1400px;
-} */
+*/
+.image-3 {}
+
+.image-height {
+    height: 100%;
+    width: 100%;
+
+}

@@ -17,26 +17,27 @@ header {
 .boolean-logo {
     max-height: 70px;
     padding: 20px;
+    height: ;
 }
 
 .images {
     padding-top: 30px;
-    position: relative;
+
 
 }
 
 .image-1 {
-    position: absolute;
+    position: relative;
     left: 174px;
 
 }
 
 .image-2 {
-    position: absolute;
+    position: relative;
     left: 900px;
 }
 
 .image-3 {
-    position: absolute;
+    position: relative;
     left: 1400px;
 }

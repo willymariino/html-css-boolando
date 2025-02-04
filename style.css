@@ -20,14 +20,16 @@ header {
     height: ;
 }
 
-.images {
-    position: relative;
+.images-top {
+    display: flex;
     padding-top: 30px;
+    max-height: 200px;
+    display: space-between;
 
 
 }
 
-.image-1 {
+/* .image-1 {
     position: relative;
     left: 174px;
 
@@ -41,4 +43,4 @@ header {
 .image-3 {
     position: relative;
     left: 1400px;
-}
+} */

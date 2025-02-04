@@ -15,6 +15,18 @@ header {
 }
 
 .boolean-logo {
-    max-height: 50px;
+    max-height: 70px;
     padding: 20px;
+}
+
+.images {
+    padding-top: 30px;
+    position: relative;
+
+}
+
+.image-1 {
+    position: absolute;
+    left: 174px;
+
 }

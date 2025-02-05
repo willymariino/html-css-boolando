@@ -5,8 +5,8 @@
 }
 
 .container {
-    max-width: 1390px;
-    margin: 0;
+    max-width: 1500px;
+    margin: 0 auto;
 }
 
 header {
@@ -26,11 +26,12 @@ main .products {
 }
 
 main .products>div {
-    width: calc(100% / 3);
+    width: calc((100% - 40px) / 3);
     flex-shrink: 0;
     background-color: #ff6900;
     height: 200px;
     border: 2px solid black;
+    margin: 10px;
 
 }
 

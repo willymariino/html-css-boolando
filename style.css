@@ -18,8 +18,21 @@ header {
 }
 
 
+main .products {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+    gap: 20px;
+}
 
+main .products>div {
+    width: calc(100% / 3);
+    flex-shrink: 0;
+    background-color: #ff6900;
+    height: 200px;
+    border: 2px solid black;
 
+}
 
 
 

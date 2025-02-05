@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container{
+.container {
     max-width: 1390px;
     margin: 0;
 }
@@ -16,6 +16,21 @@ header {
     align-items: center;
     color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ////////////////////////////////
+ vecchio codice
 
 .container {
     max-width: 1390px;
@@ -72,11 +87,12 @@ header {
     left: 900px;
 }
 
-*/
+/* */
+/* 
 .image-3 {}
 
 .image-height {
     height: 100%;
     width: 100%;
 
-}
+}  */

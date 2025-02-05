@@ -11,7 +11,11 @@ header {
     justify-content: space-around;
     align-items: center;
     color: white;
+}
 
+.container {
+    max-width: 1390px;
+    margin: 0 auto;
 }
 
 .boolean-logo {

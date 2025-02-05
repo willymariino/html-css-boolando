@@ -4,11 +4,15 @@
     box-sizing: border-box;
 }
 
+.container{
+    max-width: 1390px;
+    margin: 0;
+}
 
 header {
     background-color: #ff6900;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     color: white;
 }
